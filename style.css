@@ -1,3 +1,20 @@
 .dontshow {
 display: none;
 }
+
+body {
+    background-image: url("./Images/greys.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center;
+    height: 500px;
+}
+
+#welcome {
+    background-color: rgb(255, 255, 255);
+    align-items: center top;
+
+}
+
+
+
